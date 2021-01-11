@@ -1,6 +1,6 @@
 # belgium-trains
 
-![Screen_capture](./screen_capture.png)
+![Screen_capture](./screen_capture.PNG)
 
 Android App which provide train journey data for Belgium
 
